@@ -9,7 +9,7 @@ This C++ program demonstrates a linked list with a pointer jumping algorithm. It
 3. Navigate to the directory containing the source files.
 4. Compile the program using the following command:
 
-```bash
+    ```bash
     g++ LinkedList.cpp test.cpp -o test
     ```
 
