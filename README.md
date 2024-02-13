@@ -9,10 +9,13 @@ This C++ program demonstrates a linked list with a pointer jumping algorithm. It
 3. Navigate to the directory containing the source files.
 4. Compile the program using the following command:
 
+```bash
     g++ LinkedList.cpp test.cpp -o test
     ```
+
 5. Run the compiled program:
 
+    ```bash
     ./test
     ```
 6. You should see the output displaying the initial linked list and the modified list after pointer jumping, followed by a message indicating all tests passed.
